@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Image of Hardcore Partying](https://images.app.goo.gl/jzwH58KfM8u1SJ1v6)
+
 <!--
 **laurenlizardo/laurenlizardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
