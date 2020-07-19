@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Alt Text](/michael-and-dwight.gif)
+![](http://gph.is/1h30zRM)
 
 <!--
 **laurenlizardo/laurenlizardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
