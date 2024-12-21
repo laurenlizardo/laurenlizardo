@@ -1,5 +1,3 @@
-### Hi there 👋 I'm Lauren and welcome to my GitHub!
-
 ![](https://media.giphy.com/media/lMVNl6XxTvXgs/giphy.gif)
 
 <!--
